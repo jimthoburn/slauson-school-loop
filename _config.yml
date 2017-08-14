@@ -1,0 +1,18 @@
+---
+title: Azusa High School
+timezone: America/Los_Angeles
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: pretty
+exclude:
+- CNAME
+- README.md
+- css/color.css
+- css/color.css.map
+- css/shim.css
+- css/shim.css.map

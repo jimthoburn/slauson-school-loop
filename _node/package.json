@@ -1,0 +1,25 @@
+{
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.6.0",
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.2.0",
+    "gulp-sourcemaps": "^1.9.1",
+    "jsdom": "^9.9.1",
+    "postcss-calc": "^5.3.1",
+    "postcss-custom-properties": "^5.0.1",
+    "postcss-import": "^9.0.0",
+    "livereload-js": "^2.2.2"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "name": "git-school-loop",
+  "description": "This is a design prototype for the Azusa High School website. You can view the site here: http://azusahighschool.jimthoburn.com",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}

@@ -1,0 +1,56 @@
+
+
+  /* =Color
+  ----------------------------------------------- */
+  :root {
+    --light-blue: rgb(57, 164, 208);
+    --lighter-blue: rgb(114, 211, 255);
+    --saturated-blue: rgb(42, 169, 255);
+
+    --tungsten: rgb(40, 41, 43);
+  }
+
+  :root {
+    --text-color: var(--tungsten);
+    --link-color: var(--light-blue);
+    --button-color: var(--light-blue);
+    --headline-color: var(--light-blue);
+    --nav-background-color: var(--light-blue);
+    --nav-color: rgba(255, 255, 255, 0.9);
+  }
+
+  body {
+    background-color: rgba(57, 164, 208, 0.025); /* --light-blue */
+    color: var(--text-color);
+  }
+
+  /*
+  a {
+    color: var(--link-color);
+  }
+
+  main h1,
+  main h2 {
+    color: var(--headline-color);
+  }
+  dt {
+    color: var(--headline-color);
+  }
+  body > nav,
+  body > footer {
+    background-color: var(--light-blue);
+    color: rgba(0, 0, 0, 0.9);
+    color: rgba(255, 255, 255, 0.9);
+  }
+  body > nav button {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  */
+
+  /*
+  body #container_header,
+  body #container_home_header {
+    background: url(/images/aztecs.jpg) center no-repeat;
+    background-size: cover;
+  }
+  */
