@@ -5,7 +5,7 @@
   ----------------------------------------------- */
 
   body {
-    background-color: rgba(7, 117, 72, 0.025); /* --green */
+    background-color: rgba(57, 164, 208, 0.025); /* --light-blue */
     color: rgb(40, 41, 43);
   }
 
@@ -98,7 +98,7 @@
   a,
   a:link,
   a:visited {
-    color: rgb(7, 117, 72);
+    color: rgb(57, 164, 208);
   }
 
   a:hover,
@@ -115,7 +115,7 @@
     background-image: none;
     background-color: transparent;
     border-width: 0;
-    color: rgb(7, 117, 72);
+    color: rgb(57, 164, 208);
     font-weight: inherit;
     text-decoration: underline;
   }
@@ -138,7 +138,7 @@
     font-weight: inherit;
     text-transform: uppercase;
     font-family: "Roboto Slab", "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
-    color: rgb(7, 117, 72);
+    color: rgb(57, 164, 208);
   }
 
   .link_list h2,
@@ -152,7 +152,7 @@
     font-weight: inherit;
     text-transform: inherit;
     background-image: none;
-    color: rgb(7, 117, 72);
+    color: rgb(57, 164, 208);
     padding-left: 0;
   }
 
@@ -173,7 +173,7 @@
     text-transform: uppercase;
     text-transform: inherit;
     background-image: none;
-    color: rgb(7, 117, 72);
+    color: rgb(57, 164, 208);
     padding-left: 25px;
   }
 
@@ -250,7 +250,7 @@
 
   .nav_public {
     background-image: none;
-    border-color: rgb(7, 117, 72);
+    border-color: rgb(57, 164, 208);
   }
 
   .footer_footnote {
@@ -279,7 +279,7 @@
   .nav_public {
     height: auto;
     min-height: 32px;
-    background: rgb(7, 117, 72);
+    background: rgb(57, 164, 208);
     color: rgba(255, 255, 255, 0.9);
   }
 
