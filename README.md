@@ -1,7 +1,7 @@
-# Azusa High School
+# Slauson Middle School
 
-This is a design prototype for the Azusa High School website. You can view the site here:
-http://gladstonehighschool.jimthoburn.com
+This is a design prototype for the Slauson Middle School website on School Loop. You can view the site here:
+http://slausonmiddle.jimthoburn.com
 
 ## How to make changes
 
