@@ -16,7 +16,7 @@ exports.HEAD_ELEMENT_HTML = `
 
 exports.LOGO_HTML = `
 <a href="/">
-  <img src="/images/azusa-district.png" width="150" alt="" />
+  <img src="/images/slauson.png" width="150" alt="" />
   <h2>Slauson Middle School</h2>
   <p>Home of the Panthers</p>
 </a>

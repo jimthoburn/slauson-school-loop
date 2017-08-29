@@ -3,24 +3,22 @@
   /* =Color
   ----------------------------------------------- */
   :root {
-    --light-blue: rgb(57, 164, 208);
-    --lighter-blue: rgb(114, 211, 255);
-    --saturated-blue: rgb(42, 169, 255);
+    --green: rgb(7, 117, 72);
 
     --tungsten: rgb(40, 41, 43);
   }
 
   :root {
     --text-color: var(--tungsten);
-    --link-color: var(--light-blue);
-    --button-color: var(--light-blue);
-    --headline-color: var(--light-blue);
-    --nav-background-color: var(--light-blue);
+    --link-color: var(--green);
+    --button-color: var(--green);
+    --headline-color: var(--green);
+    --nav-background-color: var(--green);
     --nav-color: rgba(255, 255, 255, 0.9);
   }
 
   body {
-    background-color: rgba(57, 164, 208, 0.025); /* --light-blue */
+    background-color: rgba(7, 117, 72, 0.025); /* --green */
     color: var(--text-color);
   }
 
