@@ -1,0 +1,124 @@
+
+  @charset "utf-8";
+
+  #container_home_header,
+  #container_header {
+    margin-top: 3em;
+  }
+
+  .nav_public {
+    top: 0;
+    background-image: none !important;
+    padding-bottom: 0em;
+    background-color: rgb(6, 100, 62); /* --green */
+  }
+
+  @media (min-width: 1000px) {
+    .nav_public ul {
+      justify-content: center;
+      padding-left: 225px;
+    }
+  }
+
+  .azusa-home-introduction {
+    top: 3em;
+  }
+  .azusa-home-introduction h3 .lowercase {
+    font-style: italic;
+    font-weight: normal;
+    font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, sans-serif;
+  }
+
+  #container_header::after,
+  #container_home_header::after {
+    background-image: url(images/slauson.svg);
+  }
+
+
+  #container_home_header {
+    background-image: url(images/four-students.png) !important;
+    background-repeat: no-repeat;
+    background-position: bottom !important;
+    background-size: auto 70% !important;
+  }
+  #container_home_header,
+  .azusa-home-introduction {
+    height: 85vh !important;
+    min-height: 55vw;
+  }
+
+  #container_home_header::after {
+    bottom: auto;
+    left: 50%;
+    top: 2.25em;
+    width: 25vw;
+    height: 12.5vw;
+    transform: translateX(-50%);
+  }
+
+  .azusa-students #container_home_header,
+  .azusa-students #container_header {
+    background-image: url(images/campus/p1250025.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-about #container_header {
+    background-image: url(images/building.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-guidance #container_header {
+    background-image: url(images/writing.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-board #container_header {
+    background-image: url(images/instagram/17334172_1273041329449145_380031054381056000_n.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-departments #container_header {
+    background-image: url(images/instagram/16908371_1685165375123633_4952913950254563328_n.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-schools #container_header {
+    background-image: url(images/instagram/13734432_1172781379460509_795836197_n.jpg) !important;
+    background-position: center !important;
+
+    height: 55vh !important;
+    min-height: 40vw;
+  }
+
+  .azusa-students #container_header {
+    background-image: url(images/students.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-staff #container_header {
+    background-image: url(images/one-student.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-athletics #container_header {
+    background-image: url(images/athletics.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-activities #container_header {
+    background-image: url(images/photos/aHR0cDovL2docy1hdXNkLWNhLnNjaG9vbGxvb3AuY29tL3VpbWcvaW1hZ2UvMTM1NjYxMjg2NjM4Ni8xMzQ1Mjc5MTU3MDQxLzE0ODU2ODI3NjUzMDQuanBnP2Nyb3BUb3A9MzMmY3JvcFJpZ2h0PTkwMCZjcm9wQm90dG9tPTYzMyZjcm9wTGVmdD0xMDAmYmFzaXNXaWR0aD0xMDAw.jpeg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-standards #container_header {
+    background-image: url(images/students.jpg) !important;
+    background-position: center !important;
+  }
+
+  .azusa-parents #container_header {
+    background-image: url(images/instagram/14488205_724767584345061_195698733143293952_n.jpg) !important;
+    background-position: center !important;
+
+    height: 55vh !important;
+    min-height: 45vw;
+  }
