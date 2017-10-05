@@ -70,7 +70,7 @@
 
     function getPageCategory(className) {
       if (titleHas('News')) {
-        return 'athletics';
+        return 'news';
       } else if (titleHas('Our School')) {
         return 'about';
       } else if (titleHas('Guidance')) {

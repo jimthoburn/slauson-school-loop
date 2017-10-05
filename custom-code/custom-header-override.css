@@ -100,9 +100,12 @@
     background-position: center !important;
   }
 
-  .azusa-athletics #container_header {
+  .azusa-news #container_header {
     background-image: url(images/athletics.jpg) !important;
-    background-position: center !important;
+    background-position: 50% 25% !important;
+
+    height: 55vh !important;
+    min-height: 45vw;
   }
 
   .azusa-activities #container_header {
