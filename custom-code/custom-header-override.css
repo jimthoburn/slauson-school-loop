@@ -33,6 +33,11 @@
   #container_home_header::after {
     background-image: url(images/slauson.svg);
   }
+  @media (min-width: 1000px) {
+    #container_header::after {
+      top: -1.5em;
+    }
+  }
 
 
   #container_home_header {
@@ -125,3 +130,10 @@
     height: 55vh !important;
     min-height: 45vw;
   }
+
+
+  .azusa-home-introduction h3 {
+    max-width: 12em;
+  }
+
+

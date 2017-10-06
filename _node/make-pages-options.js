@@ -15,6 +15,10 @@ exports.HEAD_ELEMENT_HTML = `
 <link rel="stylesheet" href="/css/shared.css" />
 -->
 
+<script type="text/template" id="azusa-home-video-template">
+  <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/jGFqTpDBO90?autoplay=1;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</script>
+
 <link href="https://fonts.googleapis.com/css?family=Merriweather:400,400i,700,700i|Source+Sans+Pro:400,400i,700,700i" rel="stylesheet" />
 <link rel="stylesheet" href="/custom-code/custom-header.css" />
 <link rel="stylesheet" href="/custom-code/custom-header-override.css">

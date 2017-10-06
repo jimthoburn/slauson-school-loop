@@ -150,7 +150,7 @@
   });*/
 
   // Replace the placeholder image with a video element, if the link to the video has been pressed
-/*  document.addEventListener('DOMContentLoaded', function() {
+  document.addEventListener('DOMContentLoaded', function() {
 
     // Do we have the features we need?
     if (!document.body.addEventListener || !document.body.querySelector || !document.body.classList) return;
@@ -175,5 +175,5 @@
 
       }
     }, false);
-  });*/
+  });
 
